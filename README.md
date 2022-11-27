@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prerequisites
 ## Setting Up Git
 **Git** is a very popular **version control system.**
